@@ -1,3 +1,3 @@
 # Rockbuster_Analysis
 
-A data analysis project based on a fictional movie rental company called Rockbuster Stealth LLC. This project utilizes SQL to answer key questions to strengthen their company strategy and is part of the Career Foundry Data Analytics Program.
+A data analysis project from the Career Foundry Data Analytics program. This project utilizes SQL to provide data-driven answers for a fictional company called Rockbuster Stealth LLC, and to help aid their upcoming company strategy.
