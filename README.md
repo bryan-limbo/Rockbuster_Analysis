@@ -8,4 +8,4 @@ Rockbuster is looking to launch an online video rental service to stay competiti
 
 ### Data
 
-The dataset from PostgreSQL can be located [here](https://www.postgresqltutorial.com/wp-content/uploads/2019/05/dvdrental.zip)
+The dataset is available on PostgreSQL's website and can be located [here](https://www.postgresqltutorial.com/wp-content/uploads/2019/05/dvdrental.zip)
