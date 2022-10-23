@@ -6,3 +6,6 @@ A data analysis project as part of the Career Foundry Data Analytics program. Th
 
 Rockbuster is looking to launch an online video rental service to stay competitive in the market. Facing stiff competition from streaming services such as Netflix and Amazon Prime, the Management Board has asked a series of business questions. They expect data-driven answers to assist with their upcoming company strategy.
 
+### Data
+
+The dataset provided by Career Foundry can be found [here]https://www.postgresqltutorial.com/wp-content/uploads/2019/05/dvdrental.zip
