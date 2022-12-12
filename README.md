@@ -9,3 +9,13 @@ Rockbuster is looking to launch an online video rental service to stay competiti
 ### Data
 
 The dataset is available on PostgreSQL's website and can be located [here](https://www.postgresqltutorial.com/wp-content/uploads/2019/05/dvdrental.zip)
+
+### Tools
+
+- Excel: Present the SQL results to technical colleagues with snippets of the code used and the results in table formats.
+- SQL: Query data from a the dataset using a combination of different methods such as joins, subqueries, and common table expressions (CTEs).
+- Tableau: Create visualizations based on the queried data and present a storyboard to showcase the results.
+
+### Results
+
+The final report with recommendations can be found [here](https://github.com/bryan-limbo/Rockbuster_Analysis/blob/main/Rockbuster%20Analysis%20Presentation.pptx)
