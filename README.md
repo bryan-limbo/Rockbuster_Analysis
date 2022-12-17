@@ -18,4 +18,4 @@ The dataset is available on PostgreSQL's website and can be located [here](https
 
 ### Results
 
-The final report with recommendations can be found [here](https://github.com/bryan-limbo/Rockbuster_Analysis/blob/main/Rockbuster%20Analysis%20Presentation.pptx)
+The final report with recommendations can be found [here](https://github.com/bryan-limbo/Rockbuster_Analysis/blob/main/Rockbuster%20Analysis%20Presentation.pdf)
